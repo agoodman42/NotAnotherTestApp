@@ -1,0 +1,4 @@
+include ':app',
+        ':urbanairship-sdk',
+        ':urbanairship-core',
+        ':urbanairship-fcm'
